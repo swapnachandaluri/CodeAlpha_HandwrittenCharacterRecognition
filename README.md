@@ -81,11 +81,21 @@ A Convolutional Neural Network (CNN) was used consisting of:
 ---
 ## 🏆 Results
 
-- Test Accuracy: XX.XX%
-- Successfully recognized handwritten digits from 0–9.
-- CNN achieved high performance on unseen test images.
-- The model demonstrated strong generalization capability.
----
+The Convolutional Neural Network (CNN) achieved excellent performance on the MNIST Handwritten Digits Dataset.
+
+### Performance Metrics
+
+- Test Accuracy: 99.16%
+- Precision: 99%
+- Recall: 99%
+- F1-Score: 99%
+
+### Sample Prediction
+
+- Predicted Digit: 0
+- Actual Digit: 0
+
+The model successfully recognized handwritten digits with high accuracy and demonstrated strong generalization capability on unseen test data.
 
 ## 🚀 Technologies Used
 
